@@ -1,10 +1,12 @@
 ## Awesome WM config
 
-#### Original work by PapyElGringo.
+#### Original work by [PapyElGringo](https://github.com/PapyElGringo).
 
-I pulled a git repository from the user [Chris Titus](https://github.com/ChrisTitusTech/material-awesome) and slighltly modified it to my needs.
+I cloned a git repository from the user [Chris Titus](https://github.com/ChrisTitusTech/material-awesome) and slighltly modified it to my needs.
 
-What I did: \
+NOTE: I will also provide a screenshot in this repo if you want to visually decide if you want to use it.
+
+What I did: 
   * Removed time and date from top panel 
   * Removed taskbar from left panel 
   * Changed Brave logo to Firefox logo 
@@ -47,11 +49,6 @@ wget -qO- https://git.io/papirus-icon-theme-install | sh
 ```
 git clone https://github.com/philippanic/awesome-wm-config.git ~/.config/awesome
 ```
-
-Go in this folder then and then in .config
-
-Move the folder awesome in to ~/.config
-
 
 ### External links
 
