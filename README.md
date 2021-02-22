@@ -47,7 +47,7 @@ wget -qO- https://git.io/papirus-icon-theme-install | sh
 ### Clone and install
 
 ```
-git clone https://github.com/philippanic/awesome-wm-config.git ~/.config/awesome
+git clone https://github.com/boftek/awesome-wm-config.git ~/.config/awesome
 ```
 
 ### External links
